@@ -1,0 +1,7 @@
+C:\Users\Liam\Desktop\DataStructureBuilderV0.1\DataStructureBuilderV0.1\bin\Debug\DataStructureBuilderV0.1.exe.config
+C:\Users\Liam\Desktop\DataStructureBuilderV0.1\DataStructureBuilderV0.1\bin\Debug\DataStructureBuilderV0.1.exe
+C:\Users\Liam\Desktop\DataStructureBuilderV0.1\DataStructureBuilderV0.1\bin\Debug\DataStructureBuilderV0.1.pdb
+C:\Users\Liam\Desktop\DataStructureBuilderV0.1\DataStructureBuilderV0.1\obj\Debug\DataStructureBuilderV0.1.csprojResolveAssemblyReference.cache
+C:\Users\Liam\Desktop\DataStructureBuilderV0.1\DataStructureBuilderV0.1\obj\Debug\DataStructureBuilderV0.1.csproj.CoreCompileInputs.cache
+C:\Users\Liam\Desktop\DataStructureBuilderV0.1\DataStructureBuilderV0.1\obj\Debug\DataStructureBuilderV0.1.exe
+C:\Users\Liam\Desktop\DataStructureBuilderV0.1\DataStructureBuilderV0.1\obj\Debug\DataStructureBuilderV0.1.pdb
